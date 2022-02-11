@@ -1,4 +1,11 @@
-### Hi there 👋
+
+- 🔭 I’m currently working as Android developer at Kyan Company .
+- 🌱 I’m currently learning Spanish language and kotlin .
+- 👯 I’m looking to collaborate on team up .
+- 📫 How to reach me:
+-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdis-yavari/)
+
+![Mahdis's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdisyavari&layout=compact&langs_count=8&hide_border=true&theme=radical)
 
 <!--
 **MahdisYavari/MahdisYavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
